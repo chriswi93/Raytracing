@@ -1,0 +1,3 @@
+opencv-python==4.5.5.62
+pyquaternion==0.9.9
+matplotlib==3.5.1
