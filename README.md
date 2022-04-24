@@ -1,5 +1,7 @@
 # Raytracing
 
+https://medium.com/@datastories/ray-tracing-from-scratch-advanced-3d-image-data-augmentation-in-python-c77275c61de2
+
 Sample usage:
 ```python
 import cv2
