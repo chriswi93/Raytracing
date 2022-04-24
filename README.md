@@ -1,6 +1,6 @@
 # Raytracing
 
-https://medium.com/@datastories/ray-tracing-from-scratch-advanced-3d-image-data-augmentation-in-python-c77275c61de2
+Related Medium Article: <a href="https://medium.com/@datastories/ray-tracing-from-scratch-advanced-3d-image-data-augmentation-in-python-c77275c61de2">Ray Tracing from Scratch — Advanced 3D Image Data Augmentation in Python</a>
 
 Sample usage:
 ```python
